@@ -1,0 +1,14 @@
+package br.com.fiap.domain.valueobject;
+
+public enum Destino {
+
+    MODULO_HABITACIONAL,
+    CENTRO_MEDICO,
+    SETOR_ENERGIA,
+    RESERVATORIO_CENTRAL,
+    CENTRO_COMUNICACOES,
+    SETOR_ROBOTICA,
+    AREA_CONSTRUCAO_LUNAR,
+    CENTRO_LOGISTICO
+
+}
